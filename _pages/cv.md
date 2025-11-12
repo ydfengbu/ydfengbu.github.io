@@ -11,26 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, Boston University, 2025
+* A.M in Statistics, Washington University in St. Louis, 2019
+* B.S. in Mathematics, minor in Computer Science, State University of New York at Buffalo, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2025 - Now: Applied Scientist at Amazon
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2024 - Aug 2024: Applied Scientist Intern at Amazon
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
   
 Skills
 ======
