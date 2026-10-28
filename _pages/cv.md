@@ -7,49 +7,15 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* Ph.D in Statistics, Boston University, 2025
-* A.M in Statistics, Washington University in St. Louis, 2019
-* B.S. in Mathematics, minor in Computer Science, State University of New York at Buffalo, 2017
 
-Work experience
-======
-* July 2025 - Now: Applied Scientist at Amazon
+* Ph.D. in Statistics, Boston University, 2025
+* A.M. in Statistics, Washington University in St. Louis, 2019
+* B.S. in Mathematics, with a minor in Computer Science, State University of New York at Buffalo, 2017
 
-* May 2024 - Aug 2024: Applied Scientist Intern at Amazon
+Work Experience
+======
 
-
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* July 2025–Present: Applied Scientist, Amazon
+* May 2024–August 2024: Applied Scientist Intern, Amazon
